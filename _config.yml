@@ -12,17 +12,17 @@ url: "http://speciudea.github.io"
 author:
   name: 'SPECI'
   first_name: 'SPECI'
-  last_name: 'UdeA'
+  last_name: ''
   email: 'speciudea@gmail.com'
   github_username: 'speciudea'
-  head_img: 'static/img/landing/picture.png'
+  head_img: 'static/img/landing/picture.jpg'
   desc: 'Grupo de Estudiantes que nos reunimos para promover y llevar a cabo iniciativas científicas, de educación y difusión en la UdeA.'
 
 # sections
 sections:
   - id: 'about-me'
     i18n: 'nav.about_me'
-    name: 'About'
+    name: '¿Quiénes somos?'
     tpl: 'about.html'
     css: ''
 
