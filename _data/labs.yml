@@ -1,11 +1,53 @@
 - name:
-    detail: Título
+    detail: Física-Matemática
     i18n: postdoc
   desc:
-    detail: Resumén.
+    detail: Desc.
     i18n: postdoc_des
   date:
-    detail: Fecha
+    detail: 
+    i18n: postdoc_date
+  job:
+    detail: UdeA
+    i18n: potdoc_job
+  icon: fa-book
+
+- name:
+    detail: Matemáticas
+    i18n: postdoc
+  desc:
+    detail: Desc.
+    i18n: postdoc_des
+  date:
+    detail: 
+    i18n: postdoc_date
+  job:
+    detail: UdeA
+    i18n: potdoc_job
+  icon: fa-book
+  
+ - name:
+    detail: Biología-Matemática
+    i18n: postdoc
+  desc:
+    detail: Desc.
+    i18n: postdoc_des
+  date:
+    detail: 
+    i18n: postdoc_date
+  job:
+    detail: UdeA
+    i18n: potdoc_job
+  icon: fa-book
+  
+ - name:
+    detail: Computación
+    i18n: postdoc
+  desc:
+    detail: Desc.
+    i18n: postdoc_des
+  date:
+    detail: 
     i18n: postdoc_date
   job:
     detail: UdeA
