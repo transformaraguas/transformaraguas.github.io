@@ -1,0 +1,13 @@
+- name:
+    detail: Título
+    i18n: postdoc
+  desc:
+    detail: Resumén.
+    i18n: postdoc_des
+  date:
+    detail: Fecha
+    i18n: postdoc_date
+  job:
+    detail: UdeA
+    i18n: potdoc_job
+  icon: fa-book
