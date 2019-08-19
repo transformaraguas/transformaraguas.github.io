@@ -1,0 +1,16 @@
+- name:
+    detail: Álgebra homológica
+    i18n: postdoc  
+    imag:
+    detail: Imag
+    i18n: postdoc_des   
+  desc:
+    detail: Resumén. A cargo del Laboratorio SPECI de Matemáticas.
+    i18n: postdoc_des
+  date:
+    detail: Fecha y Salon
+    i18n: postdoc_date
+  job:
+    detail: UdeA
+    i18n: potdoc_job
+  icon: fa-book
