@@ -26,7 +26,7 @@
     i18n: potdoc_job
   icon: fa-th
   
- - name:
+- name:
     detail: Biología-Matemática
     i18n: postdoc
   desc:
@@ -40,7 +40,7 @@
     i18n: potdoc_job
   icon: fa-th
   
- - name:
+- name:
     detail: Computación
     i18n: postdoc
   desc:
