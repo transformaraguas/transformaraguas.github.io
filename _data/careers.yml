@@ -5,7 +5,7 @@
     detail: Imag1 invitacion, foto2, foto3, foto4.
     i18n: postdoc_des    
   desc:
-    detail: Resumén.
+    detail: Presentacion, resumén.
     i18n: postdoc_des
   date:
     detail: Fecha
@@ -22,7 +22,7 @@
     detail: Imag1 invitacion, foto2, foto3, foto4.
     i18n: postdoc_des    
   desc:
-    detail: Resumén.
+    detail: Presentacion, resumén.
     i18n: postdoc_des
   date:
     detail: Fecha
@@ -39,7 +39,7 @@
     detail: Imag1 invitacion, foto2, foto3, foto4.
     i18n: postdoc_des    
   desc:
-    detail: Resumén.
+    detail: Presentacion, resumén.
     i18n: postdoc_des
   date:
     detail: Fecha
