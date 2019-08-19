@@ -34,11 +34,11 @@ sections:
     tpl: 'charlas.html'
     css: 'timeline'
 
-#  - id: 'labs'
-#    i18n: 'nav.labs'
-#    name: 'Laboratorios'
-#    tpl: 'labs.html'
-#    css: 'timeline'
+  - id: 'labs'
+    i18n: 'nav.labs'
+    name: 'Laboratorios'
+    tpl: 'labs.html'
+    css: 'timeline'
     
 #  - id: 'cursos'
 #    i18n: 'nav.cursos'
