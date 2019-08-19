@@ -18,7 +18,7 @@ author:
   twitter_username: 'speciudea'
   facebook_username: 'SPECI0918'
   head_img: 'static/img/landing/picture.jpg'
-  desc: 'Grupo de Estudiantes que se reúnen para promover y llevar a cabo iniciativas científicas, de educación y difusión en la UdeA.'
+  descrip: 'Grupo de Estudiantes que se reúnen para promover y llevar a cabo iniciativas científicas, de educación y difusión en la UdeA.'
 
 # sections
 sections:
