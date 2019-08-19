@@ -1,6 +1,9 @@
 - name:
     detail: Álgebra homológica
     i18n: postdoc   
+  imag:
+    detail: 'labmath.jpg'
+    i18n: postdoc_des    
   desc:
     detail: Resumén. A cargo del Laboratorio SPECI de Matemáticas.
     i18n: postdoc_des
