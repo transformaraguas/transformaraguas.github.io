@@ -1,7 +1,7 @@
 - name:
     detail: Álgebra homológica
     i18n: postdoc  
-    imag:
+  imag:
     detail: Imag
     i18n: postdoc_des   
   desc:
