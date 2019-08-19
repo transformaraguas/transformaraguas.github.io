@@ -1,6 +1,9 @@
 - name:
     detail: Título
     i18n: postdoc
+  imag:
+    detail: Imag1 invitacion, foto2, foto3, foto4.
+    i18n: postdoc_des    
   desc:
     detail: Resumén.
     i18n: postdoc_des
@@ -15,6 +18,9 @@
 - name:
     detail: Título
     i18n: postdoc
+  imag:
+    detail: Imag1 invitacion, foto2, foto3, foto4.
+    i18n: postdoc_des    
   desc:
     detail: Resumén.
     i18n: postdoc_des
@@ -29,6 +35,9 @@
 - name:
     detail: Título
     i18n: postdoc
+  imag:
+    detail: Imag1 invitacion, foto2, foto3, foto4.
+    i18n: postdoc_des    
   desc:
     detail: Resumén.
     i18n: postdoc_des
