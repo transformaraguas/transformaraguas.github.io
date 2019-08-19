@@ -40,11 +40,11 @@ sections:
     tpl: 'labs.html'
     css: 'timeline'
     
-#  - id: 'cursos'
-#    i18n: 'nav.cursos'
-#    name: 'Cursos'
-#    tpl: 'cursos.html'
-#    css: 'timeline'
+  - id: 'cursos'
+    i18n: 'nav.cursos'
+    name: 'Cursos'
+    tpl: 'cursos.html'
+    css: 'timeline'
     
 #  - id: 'biospeci'
 #    i18n: 'nav.biospeci'
