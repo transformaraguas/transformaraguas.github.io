@@ -46,23 +46,23 @@ sections:
     tpl: 'cursos.html'
     css: 'timeline'
     
-#  - id: 'biospeci'
-#    i18n: 'nav.biospeci'
-#    name: 'BIOSPECI'
-#    tpl: 'biospeci.html'
-#    css: 'timeline'   
+  - id: 'biospeci'
+    i18n: 'nav.biospeci'
+    name: 'BIOSPECI'
+    tpl: 'biospeci.html'
+    css: 'timeline'   
     
-#  - id: 'ateneo'
-#    i18n: 'nav.ateneo'
-#    name: 'Ateneo'
-#    tpl: 'ateneo.html'
-#    css: 'timeline'
+  - id: 'ateneo'
+    i18n: 'nav.ateneo'
+    name: 'Ateneo'
+    tpl: 'ateneo.html'
+    css: 'timeline'
     
-#  - id: 'spefi'
-#    i18n: 'nav.spefi'
-#    name: 'SPEFI'
-#    tpl: 'spefi.html'
-#    css: 'timeline'
+  - id: 'spefi'
+    i18n: 'nav.spefi'
+    name: 'SPEFI'
+    tpl: 'spefi.html'
+    css: 'timeline'
 
 
 
