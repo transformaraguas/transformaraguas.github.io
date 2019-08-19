@@ -64,7 +64,11 @@ sections:
     tpl: 'spefi.html'
     css: 'timeline'
 
-
+  - id: 'foot'
+    i18n: 'nav.foot'
+    name: ''
+    tpl: 'foot.html'
+    css: ''
 
 
 #  - id: 'skills'
