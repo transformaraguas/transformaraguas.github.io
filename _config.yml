@@ -3,7 +3,7 @@
 # Website settings
 title: "SPECI"
 description: "Personal website of SPECI"
-keywords: "UdeA, difusion, ciencia"
+keywords: "UdeA, difusion, ciencia, educación"
 baseurl: "/"
 url: "http://speciudea.github.io"
 # url: "http://127.0.0.1:4000"
@@ -20,40 +20,70 @@ author:
 
 # sections
 sections:
-  - id: 'about-me'
-    i18n: 'nav.about_me'
+  - id: 'about'
+    i18n: 'nav.about'
     name: '¿Quiénes somos?'
     tpl: 'about.html'
     css: ''
 
-  - id: 'career'
-    i18n: 'nav.career'
-    name: 'Career'
-    tpl: 'career.html'
+  - id: 'charlas'
+    i18n: 'nav.charlas'
+    name: 'Charlas'
+    tpl: 'charlas.html'
     css: 'timeline'
 
-  - id: 'skills'
-    i18n: 'nav.skills'
-    name: 'Skills'
-    tpl: 'skills.html'
-    css: 'team'
+  - id: 'labs'
+    i18n: 'nav.labs'
+    name: 'Laboratorios'
+    tpl: 'labs.html'
+    css: 'timeline'
+    
+  - id: 'cursos'
+    i18n: 'nav.cursos'
+    name: 'Cursos'
+    tpl: 'cursos.html'
+    css: 'timeline'
+    
+  - id: 'biospeci'
+    i18n: 'nav.biospeci'
+    name: 'BIOSPECI'
+    tpl: 'biospeci.html'
+    css: 'timeline'   
+    
+  - id: 'ateneo'
+    i18n: 'nav.ateneo'
+    name: 'Ateneo'
+    tpl: 'ateneo.html'
+    css: 'timeline'
+    
+  - id: 'spefi'
+    i18n: 'nav.spefi'
+    name: 'SPEFI'
+    tpl: 'spefi.html'
+    css: 'timeline'
 
-  - id: 'projects'
-    i18n: 'nav.projects'
-    name: 'Projects'
-    tpl: 'projects.html'
-    css: 'project'
+#  - id: 'skills'
+#    i18n: 'nav.skills'
+#    name: 'Skills'
+#    tpl: 'skills.html'
+#    css: 'team'
 
-  - id: 'publications'
-    i18n: 'nav.publications'
-    name: 'Publications'
-    tpl: 'publications.html'
-    css: 'publications'
+#  - id: 'projects'
+#    i18n: 'nav.projects'
+#    name: 'Projects'
+#    tpl: 'projects.html'
+#    css: 'project'
+
+#  - id: 'publications'
+#    i18n: 'nav.publications'
+#    name: 'Publications'
+#    tpl: 'publications.html'
+#    css: 'publications'
 
 # localization
 languages:
-  - locale: 'en'
-    flag: 'static/img/flags/United-States.png'
+#  - locale: 'en'
+#    flag: 'static/img/flags/United-States.png'
   # - locale: 'zh'
   #   flag: 'static/img/flags/China.png'
 
