@@ -10,7 +10,7 @@
   job:
     detail: UdeA
     i18n: potdoc_job
-  icon: fa-book
+  icon: fa-th
 
 - name:
     detail: Matemáticas
@@ -24,7 +24,7 @@
   job:
     detail: UdeA
     i18n: potdoc_job
-  icon: fa-book
+  icon: fa-th
   
  - name:
     detail: Biología-Matemática
@@ -38,7 +38,7 @@
   job:
     detail: UdeA
     i18n: potdoc_job
-  icon: fa-book
+  icon: fa-th
   
  - name:
     detail: Computación
@@ -52,4 +52,4 @@
   job:
     detail: UdeA
     i18n: potdoc_job
-  icon: fa-book
+  icon: fa-th
