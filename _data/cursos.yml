@@ -1,9 +1,6 @@
 - name:
     detail: Álgebra homológica
-    i18n: postdoc  
-  imag:
-    detail: 'https://raw.githubusercontent.com/speciudea/speciudea.github.io/master/static/img/landing/curso1.jpeg'
-    i18n: postdoc_des   
+    i18n: postdoc   
   desc:
     detail: Resumén. A cargo del Laboratorio SPECI de Matemáticas.
     i18n: postdoc_des
