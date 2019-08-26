@@ -8,7 +8,7 @@
     detail: A cargo del Laboratorio SPECI de Matemáticas.
     i18n: postdoc_des
   date:
-    detail: Cada Miér 17:00 - 18:00 desde el 21 Agosto.
+    detail: 'Miérc 17:00 - 18:00'
     i18n: postdoc_date
   job:
     detail: UdeA
