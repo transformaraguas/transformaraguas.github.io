@@ -1,11 +1,14 @@
 - name:
     detail: Física-Matemática
     i18n: postdoc
+  imag:
+    detail: 'labfismat.jpeg'
+    i18n: postdoc_des      
   desc:
     detail: Desc.
     i18n: postdoc_des
   date:
-    detail: 
+    detail: 'Lun. 18:00-20:00'
     i18n: postdoc_date
   job:
     detail: UdeA
@@ -15,11 +18,14 @@
 - name:
     detail: Matemáticas
     i18n: postdoc
+  imag:
+    detail: 'labmat.jpeg'
+    i18n: postdoc_des      
   desc:
     detail: Desc.
     i18n: postdoc_des
   date:
-    detail: 
+    detail: 'Miérc. 17:00-18:00'
     i18n: postdoc_date
   job:
     detail: UdeA
@@ -29,6 +35,9 @@
 - name:
     detail: Biología-Matemática
     i18n: postdoc
+  imag:
+    detail: 'labbiolmat.jpeg'
+    i18n: postdoc_des      
   desc:
     detail: Desc.
     i18n: postdoc_des
@@ -43,6 +52,9 @@
 - name:
     detail: Computación
     i18n: postdoc
+  imag:
+    detail: 'labcomp.jpeg'
+    i18n: postdoc_des      
   desc:
     detail: Desc.
     i18n: postdoc_des
