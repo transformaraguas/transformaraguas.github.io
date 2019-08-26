@@ -22,7 +22,7 @@
     detail: 'labmat.jpeg'
     i18n: postdoc_des      
   desc:
-    detail: Desc.
+    detail: Grupo de estudio de las matemáticas como ciencia de las estructuras, desde conjuntos con estructuras hasta la teoría homotópica de tipos y los fundamentos univalentes.
     i18n: postdoc_des
   date:
     detail: 'Miérc. 17:00-18:00'
