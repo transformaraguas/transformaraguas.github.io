@@ -1,14 +1,14 @@
 - name:
-    detail: Título
+    detail: El criterio de Schlessinger y algunas aplicaciones, Alexis Osorio
     i18n: postdoc
   imag:
-    detail: Imag1 invitacion, foto2, foto3, foto4.
+    detail: 'charla22.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Presentacion, resumén.
     i18n: postdoc_des
   date:
-    detail: Fecha
+    detail: 28 Agosto 2019
     i18n: postdoc_date
   job:
     detail: UdeA
@@ -16,16 +16,16 @@
   icon: fa-book
 
 - name:
-    detail: Título
+    detail: 'Dimension arbitraria: reflexions de la realidad, Johann Franco'
     i18n: postdoc
   imag:
-    detail: Imag1 invitacion, foto2, foto3, foto4.
+    detail: 'charla21.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Presentacion, resumén.
     i18n: postdoc_des
   date:
-    detail: Fecha
+    detail: 21 Agosto 2019
     i18n: postdoc_date
   job:
     detail: UdeA
