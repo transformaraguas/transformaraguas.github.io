@@ -1,14 +1,14 @@
 - name:
-    detail: Álgebra homológica
+    detail: Topología algebraica
     i18n: postdoc   
   imag:
-    detail: 'labmath.jpg'
+    detail: 'topalg.jpeg'
     i18n: postdoc_des    
   desc:
-    detail: Resumén. A cargo del Laboratorio SPECI de Matemáticas.
+    detail: A cargo del Laboratorio SPECI de Matemáticas.
     i18n: postdoc_des
   date:
-    detail: Cada Miér a las 17:00 desde el 21 Agosto. Salon
+    detail: Cada Miér 17:00 - 18:00 desde el 21 Agosto.
     i18n: postdoc_date
   job:
     detail: UdeA
