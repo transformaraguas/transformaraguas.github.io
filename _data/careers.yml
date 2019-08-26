@@ -19,7 +19,7 @@
     detail: 'Dimension arbitraria: reflexions de la realidad, Johann Franco'
     i18n: postdoc
   imag:
-    detail: 'charla21.jpeg'
+    detail: 'charla21.jpg'
     i18n: postdoc_des    
   desc:
     detail: Presentacion, resumén.
@@ -33,16 +33,33 @@
   icon: fa-book
   
 - name:
-    detail: Título
+    detail: Vistazo a los fundamentos de la mecánica cuántica, Federico Úsuga
     i18n: postdoc
   imag:
-    detail: Imag1 invitacion, foto2, foto3, foto4.
+    detail: 'charla15.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Presentacion, resumén.
     i18n: postdoc_des
   date:
-    detail: Fecha
+    detail: 10 Abril
+    i18n: postdoc_date
+  job:
+    detail: UdeA
+    i18n: potdoc_job
+  icon: fa-book
+
+- name:
+    detail: El micobioma de la mucosa humana y las interacciones con la comunidad fúngica, Michell Trujillo
+    i18n: postdoc
+  imag:
+    detail: 'charla14.jpeg'
+    i18n: postdoc_des    
+  desc:
+    detail: Presentacion, resumén.
+    i18n: postdoc_des
+  date:
+    detail: 3 Abril
     i18n: postdoc_date
   job:
     detail: UdeA
