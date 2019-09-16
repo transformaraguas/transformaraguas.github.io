@@ -1,14 +1,14 @@
 - name:
-    detail: Evento
+    detail: Avistamiento de aves en el campus UdeA
     i18n: postdoc  
   imag:
-    detail: Imag
+    detail: 'davidbiospeci.jpeg'
     i18n: postdoc_des   
   desc:
-    detail: Resumén.
+    detail: A cargo de David White
     i18n: postdoc_des
   date:
-    detail: Fecha y Salon
+    detail: Miérc. 3 Abril
     i18n: postdoc_date
   job:
     detail: UdeA
