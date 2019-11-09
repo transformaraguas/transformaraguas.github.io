@@ -1,14 +1,14 @@
-- name:
-    detail: Topología algebraica
+- name: Curso
+    detail: 
     i18n: postdoc   
   imag:
-    detail: 'topalg.jpeg'
+    detail: ''
     i18n: postdoc_des    
   desc:
-    detail: A cargo del Laboratorio SPECI de Matemáticas.
+    detail: Desc.
     i18n: postdoc_des
   date:
-    detail: 'Miérc 17:00 - 18:00'
+    detail: 'Fecha'
     i18n: postdoc_date
   job:
     detail: UdeA
