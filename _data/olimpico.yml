@@ -2,7 +2,7 @@
     detail: Olimpico
     i18n: postdoc   
   imag:
-    detail: ''
+    detail: 'olimp.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Desc.
