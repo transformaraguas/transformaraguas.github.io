@@ -33,12 +33,30 @@ sections:
     name: 'Charlas'
     tpl: 'charlas.html'
     css: 'timeline'
+    
+  - id: 'cursos'
+    i18n: 'nav.cursos'
+    name: 'Cursos'
+    tpl: 'cursos.html'
+    css: 'timeline'    
+    
+  - id: 'olimpico'
+    i18n: 'nav.olimpico'
+    name: 'Olímpico'
+    tpl: 'olimpico.html'
+    css: 'timeline'    
 
   - id: 'labs'
     i18n: 'nav.labs'
     name: 'Laboratorios'
     tpl: 'labs.html'
     css: 'timeline'
+    
+  - id: 'physik'
+    i18n: 'nav.physik'
+    name: 'Physik'
+    tpl: 'physik.html'
+    css: 'timeline'    
     
   - id: 'biospeci'
     i18n: 'nav.biospeci'
