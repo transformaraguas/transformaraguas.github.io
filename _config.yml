@@ -44,6 +44,12 @@ sections:
     tpl: 'olimpico.html'
     css: 'timeline'    
 
+  - id: 'labs'
+    i18n: 'nav.labs'
+    name: 'Video'
+    tpl: 'labs.html'
+    css: 'timeline'
+
   - id: 'foot'
     i18n: 'nav.foot'
     name: ''
