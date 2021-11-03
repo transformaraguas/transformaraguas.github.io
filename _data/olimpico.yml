@@ -14,3 +14,37 @@
     detail: UdeA
     i18n: potdoc_job
   icon: fa-book
+
+- name: 
+    detail: Olimpico
+    i18n: postdoc   
+  imag:
+    detail: 'olimp.jpeg'
+    i18n: postdoc_des    
+  desc:
+    detail: Desc.
+    i18n: postdoc_des
+  date:
+    detail: 'Fecha'
+    i18n: postdoc_date
+  job:
+    detail: UdeA
+    i18n: potdoc_job
+  icon: fa-book
+
+- name: 
+    detail: Olimpico
+    i18n: postdoc   
+  imag:
+    detail: 'olimp.jpeg'
+    i18n: postdoc_des    
+  desc:
+    detail: Desc.
+    i18n: postdoc_des
+  date:
+    detail: 'Fecha'
+    i18n: postdoc_date
+  job:
+    detail: UdeA
+    i18n: potdoc_job
+  icon: fa-book
