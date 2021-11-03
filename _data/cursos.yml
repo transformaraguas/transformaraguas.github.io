@@ -1,5 +1,5 @@
 - name: 
-    detail: Curso
+    detail: Rollo lamina
     i18n: postdoc   
   imag:
     detail: 'mat1.png'
@@ -16,7 +16,7 @@
   icon: fa-book
 
 - name: 
-    detail: Curso
+    detail: Bobinas
     i18n: postdoc   
   imag:
     detail: 'mat2.jpg'
@@ -33,7 +33,7 @@
   icon: fa-book
 
 - name: 
-    detail: Curso
+    detail: Bobinas
     i18n: postdoc   
   imag:
     detail: 'mat3.jpg'
@@ -50,7 +50,7 @@
   icon: fa-book
 
 - name: 
-    detail: Curso
+    detail: Laminas
     i18n: postdoc   
   imag:
     detail: 'mat4.jpg'
