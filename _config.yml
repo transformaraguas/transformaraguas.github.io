@@ -1,22 +1,20 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "SPECI"
-description: "Personal website of SPECI"
-keywords: "UdeA, difusion, ciencia, educación"
+title: "TRANSFORMAR"
+description: "Ponemos el agua en su lugar"
+keywords: "Empresa, Canales, Agua, Casas"
 baseurl: "/"
-url: "http://speciudea.github.io"
+url: "http://transformaraguas.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'SPECI'
-  first_name: 'SPECI'
+  name: 'TRANSFORMAR'
+  first_name: 'TRANSFORMAR'
   last_name: ''
-  email: 'speciudea@gmail.com'
-  github_username: 'speciudea'
-  twitter_username: 'speciudea'
-  facebook_username: 'SPECI0918'
+  email: 'transformaraguas@gmail.com'
+  github_username: 'transformaraguas'
   head_img: 'static/img/landing/picture.jpg'
   descrip: 'Grupo de estudiantes de la UdeA. Nos reunimos para promover y llevar a cabo inciativas científicas, de educación y difusión en la FCEN UdeA, de estudiantes para estudiantes!'
 
