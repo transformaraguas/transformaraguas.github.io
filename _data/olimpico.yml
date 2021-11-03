@@ -2,7 +2,7 @@
     detail: Olimpico
     i18n: postdoc   
   imag:
-    detail: 'olimp.jpeg'
+    detail: 'info1.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Desc.
@@ -19,7 +19,7 @@
     detail: Olimpico
     i18n: postdoc   
   imag:
-    detail: 'olimp.jpeg'
+    detail: 'info2.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Desc.
@@ -36,7 +36,7 @@
     detail: Olimpico
     i18n: postdoc   
   imag:
-    detail: 'olimp.jpeg'
+    detail: 'info3.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Desc.
@@ -53,7 +53,7 @@
     detail: Olimpico
     i18n: postdoc   
   imag:
-    detail: 'olimp.jpeg'
+    detail: 'info4.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Desc.
