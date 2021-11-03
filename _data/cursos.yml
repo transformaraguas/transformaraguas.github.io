@@ -2,7 +2,7 @@
     detail: Curso
     i18n: postdoc   
   imag:
-    detail: ''
+    detail: 'charla22.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Desc.
@@ -19,7 +19,7 @@
     detail: Curso
     i18n: postdoc   
   imag:
-    detail: ''
+    detail: 'charla22.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Desc.
@@ -36,7 +36,7 @@
     detail: Curso
     i18n: postdoc   
   imag:
-    detail: ''
+    detail: 'charla22.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Desc.
@@ -53,7 +53,7 @@
     detail: Curso
     i18n: postdoc   
   imag:
-    detail: ''
+    detail: 'charla22.jpeg'
     i18n: postdoc_des    
   desc:
     detail: Desc.
