@@ -16,52 +16,52 @@
   icon: fa-book
 
 - name: 
-    detail: Olimpico
+    detail: 
     i18n: postdoc   
   imag:
     detail: 'info2.jpeg'
     i18n: postdoc_des    
   desc:
-    detail: Desc.
+    detail: 
     i18n: postdoc_des
   date:
-    detail: 'Fecha'
+    detail: ''
     i18n: postdoc_date
   job:
-    detail: UdeA
+    detail: 
     i18n: potdoc_job
   icon: fa-book
 
 - name: 
-    detail: Olimpico
+    detail: 
     i18n: postdoc   
   imag:
     detail: 'info3.jpeg'
     i18n: postdoc_des    
   desc:
-    detail: Desc.
+    detail: 
     i18n: postdoc_des
   date:
-    detail: 'Fecha'
+    detail: ''
     i18n: postdoc_date
   job:
-    detail: UdeA
+    detail: 
     i18n: potdoc_job
   icon: fa-book
 
 - name: 
-    detail: Olimpico
+    detail: 
     i18n: postdoc   
   imag:
     detail: 'info4.jpeg'
     i18n: postdoc_des    
   desc:
-    detail: Desc.
+    detail: 
     i18n: postdoc_des
   date:
-    detail: 'Fecha'
+    detail: ''
     i18n: postdoc_date
   job:
-    detail: UdeA
+    detail: 
     i18n: potdoc_job
   icon: fa-book
