@@ -5,13 +5,13 @@
     detail: 'plieg1.jpg'
     i18n: postdoc_des    
   desc:
-    detail: Presentacion, resumén.
+    detail: 
     i18n: postdoc_des
   date:
-    detail: 28 Agosto 2019
+    detail: 31 Septiembre 2020
     i18n: postdoc_date
   job:
-    detail: UdeA
+    detail: 
     i18n: potdoc_job
   icon: fa-book
 
@@ -22,13 +22,13 @@
     detail: 'plieg2.jpg'
     i18n: postdoc_des    
   desc:
-    detail: Presentacion, resumén.
+    detail: 
     i18n: postdoc_des
   date:
     detail: 21 Agosto 2019
     i18n: postdoc_date
   job:
-    detail: UdeA
+    detail: 
     i18n: potdoc_job
   icon: fa-book
   
@@ -39,13 +39,13 @@
     detail: 'plieg3.jpeg'
     i18n: postdoc_des    
   desc:
-    detail: Presentacion, resumén.
+    detail: 
     i18n: postdoc_des
   date:
-    detail: 10 Abril 2019
+    detail: 10 Mayo 2018
     i18n: postdoc_date
   job:
-    detail: UdeA
+    detail: 
     i18n: potdoc_job
   icon: fa-book
 
@@ -56,12 +56,12 @@
     detail: 'plieg4.jpeg'
     i18n: postdoc_des    
   desc:
-    detail: Presentacion, resumén.
+    detail: 
     i18n: postdoc_des
   date:
-    detail: 3 Abril 2019
+    detail: 4 Abril 2017
     i18n: postdoc_date
   job:
-    detail: UdeA
+    detail: 
     i18n: potdoc_job
   icon: fa-book
