@@ -8,10 +8,10 @@
     detail: Desc.
     i18n: postdoc_des
   date:
-    detail: 'Fecha'
+    detail: ''
     i18n: postdoc_date
   job:
-    detail: UdeA
+    detail: 
     i18n: potdoc_job
   icon: fa-book
 
@@ -25,10 +25,10 @@
     detail: Desc.
     i18n: postdoc_des
   date:
-    detail: 'Fecha'
+    detail: ''
     i18n: postdoc_date
   job:
-    detail: UdeA
+    detail: 
     i18n: potdoc_job
   icon: fa-book
 
@@ -42,10 +42,10 @@
     detail: Desc.
     i18n: postdoc_des
   date:
-    detail: 'Fecha'
+    detail: ''
     i18n: postdoc_date
   job:
-    detail: UdeA
+    detail: 
     i18n: potdoc_job
   icon: fa-book
 
@@ -59,9 +59,9 @@
     detail: Desc.
     i18n: postdoc_des
   date:
-    detail: 'Fecha'
+    detail: ''
     i18n: postdoc_date
   job:
-    detail: UdeA
+    detail: 
     i18n: potdoc_job
   icon: fa-book
