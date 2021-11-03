@@ -28,19 +28,19 @@ sections:
 
   - id: 'charlas'
     i18n: 'nav.charlas'
-    name: 'Charlas'
+    name: 'Pliegues'
     tpl: 'charlas.html'
     css: 'timeline'
     
   - id: 'cursos'
     i18n: 'nav.cursos'
-    name: 'Cursos'
+    name: 'Materiales'
     tpl: 'cursos.html'
     css: 'timeline'    
     
   - id: 'olimpico'
     i18n: 'nav.olimpico'
-    name: 'Olímpico'
+    name: 'Información'
     tpl: 'olimpico.html'
     css: 'timeline'    
 
