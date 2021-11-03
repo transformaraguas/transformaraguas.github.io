@@ -44,36 +44,6 @@ sections:
     tpl: 'olimpico.html'
     css: 'timeline'    
 
-  - id: 'labs'
-    i18n: 'nav.labs'
-    name: 'Laboratorios'
-    tpl: 'labs.html'
-    css: 'timeline'
-    
-  - id: 'physik'
-    i18n: 'nav.physik'
-    name: 'Physik'
-    tpl: 'physik.html'
-    css: 'timeline'    
-    
-  - id: 'biospeci'
-    i18n: 'nav.biospeci'
-    name: 'BIOSPECI'
-    tpl: 'biospeci.html'
-    css: 'timeline'   
-    
-  - id: 'ateneo'
-    i18n: 'nav.ateneo'
-    name: 'Ateneo'
-    tpl: 'ateneo.html'
-    css: 'timeline'
-    
-  - id: 'spefi'
-    i18n: 'nav.spefi'
-    name: 'SPEFI'
-    tpl: 'spefi.html'
-    css: 'timeline'
-
   - id: 'foot'
     i18n: 'nav.foot'
     name: ''
