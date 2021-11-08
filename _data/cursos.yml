@@ -1,5 +1,5 @@
 - name: 
-    detail: Rollo lamina
+    detail: Bobina
     i18n: postdoc   
   imag:
     detail: 'mat1.png'
@@ -16,7 +16,7 @@
   icon: fa-book
 
 - name: 
-    detail: Bobinas
+    detail: Rollo lamina
     i18n: postdoc   
   imag:
     detail: 'mat2.jpg'
@@ -50,7 +50,7 @@
   icon: fa-book
 
 - name: 
-    detail: Laminas
+    detail: Laminas, acero galvanizado o prepinto
     i18n: postdoc   
   imag:
     detail: 'mat4.jpg'
