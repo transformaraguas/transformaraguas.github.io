@@ -1,5 +1,5 @@
 - name:
-    detail: Pliegues en lugar de instalación, Cali Colombia
+    detail: Pliegues en lugar de instalación
     i18n: postdoc
   imag:
     detail: 'plieg1.jpg'
@@ -33,7 +33,7 @@
   icon: fa-book
   
 - name:
-    detail: Instalacion y montaje en Bucaramanga
+    detail: Tu fabrica en obra
     i18n: postdoc
   imag:
     detail: 'plieg3.jpeg'
@@ -50,7 +50,7 @@
   icon: fa-book
 
 - name:
-    detail: Pintado de canales en Medellin, Colombia.
+    detail: Velocidad de ejecución e instalación
     i18n: postdoc
   imag:
     detail: 'plieg4.jpeg'
