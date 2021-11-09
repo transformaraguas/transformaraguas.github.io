@@ -39,7 +39,7 @@
     detail: 'info3.jpeg'
     i18n: postdoc_des    
   desc:
-    detail: 
+    detail: 'No fallé. Sólo encontré 10.000 formas que no funcionaban, Thomas Edison, el inventor de la lámpara.'
     i18n: postdoc_des
   date:
     detail: ''
