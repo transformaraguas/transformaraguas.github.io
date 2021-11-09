@@ -5,7 +5,7 @@
     detail: 'mat1.png'
     i18n: postdoc_des    
   desc:
-    detail: Desc.
+    detail: 
     i18n: postdoc_des
   date:
     detail: ''
@@ -22,7 +22,7 @@
     detail: 'mat2.jpg'
     i18n: postdoc_des    
   desc:
-    detail: Desc.
+    detail: 
     i18n: postdoc_des
   date:
     detail: ''
@@ -56,7 +56,7 @@
     detail: 'mat4.jpg'
     i18n: postdoc_des    
   desc:
-    detail: Desc.
+    detail: 'No determinemos nuestras canales con soldaduras que no garantizan una perfecta unión de las juntas, las soldaduras eliminan la protección de la lámina galvanizada permitiendo una menor durabilidad en su junta.'
     i18n: postdoc_des
   date:
     detail: ''
