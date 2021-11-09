@@ -22,7 +22,7 @@
     detail: 'plieg2.jpg'
     i18n: postdoc_des    
   desc:
-    detail: 
+    detail: 'Con este nuevo sistema de doblado de canal ya no es necesario buscar una dobladora o una máquina neumática que nos limita a un máximo de doblado seis metros, así mejorando tiempos de entrega y velocidad de ejecución en un 50 por ciento.'
     i18n: postdoc_des
   date:
     detail: 21 Agosto 2019
